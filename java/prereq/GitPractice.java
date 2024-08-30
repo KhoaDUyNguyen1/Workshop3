@@ -46,7 +46,9 @@ public class GitPractice {
       System.out.println("CHANGE by Khoa and by Tri second time");
 
       System.out.println("testing");
-      System.out.println("joanna testing");
+      System.out.println("testing");
+
+
    }
 
 }
