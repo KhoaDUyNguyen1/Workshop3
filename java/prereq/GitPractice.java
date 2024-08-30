@@ -40,7 +40,7 @@ public class GitPractice {
 
    public static void mergeConflictArea() {
       // TODO: All Group members uncomment and update this line of code
-      System.out.println("CHANGE by Khoa and by Tri");
+      System.out.println("CHANGE by Khoa and by Tri second time");
    }
 
 }
