@@ -27,7 +27,7 @@ public class GitPractice {
 
    public static void groupMember2() {
       System.out.println("Khoa is here");
-      System.out.println("Group Member 2: Hello, this is another Phuc");
+      System.out.println("Group Member 2: Hello, this is another Phuc123");
    }
 
    public static void groupMember3() {
@@ -36,7 +36,7 @@ public class GitPractice {
    }
 
    public static void groupMember4() {
-      System.out.println("Group Member 3: Hello, I am Tuan");
+      System.out.println("Group Member 3: Hello, I am Tuangit");
 
       
       // TODO: Group Member 4 (if you have a group of 4), place your code here
@@ -49,6 +49,7 @@ public class GitPractice {
       System.out.println("testing");
       System.out.println("testing");
 
+      //Hello this is a new line on line 52
 
    }
 
