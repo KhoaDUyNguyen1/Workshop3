@@ -9,6 +9,7 @@ public class GitPractice {
       groupMember1();
       groupMember2();
       groupMember3();
+      groupMember4();
 
       System.out.println("- Running the optional advanced test on merge conflicts");
       mergeConflictArea();
@@ -30,6 +31,11 @@ public class GitPractice {
    public static void groupMember3() {
       System.out.println("Group Member 3: Hello, I am Joanna");
       // TODO: Group Member 3 (if you have a group of 3), place your code here
+   }
+
+   public static void groupMember4() {
+      
+      // TODO: Group Member 4 (if you have a group of 4), place your code here
    }
 
    public static void mergeConflictArea() {
