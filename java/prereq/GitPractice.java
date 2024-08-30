@@ -46,7 +46,7 @@ public class GitPractice {
       System.out.println("CHANGE by Khoa and by Tri second time");
 
 
-      System.out.println("This is for testing");
+      System.out.println("changing stuff");
    }
 
 }
