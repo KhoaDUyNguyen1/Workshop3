@@ -17,15 +17,17 @@ public class GitPractice {
    }
 
    public static void groupMember1() {
+      
       // TODO: Group Member 1, place your code here
    }
 
+
    public static void groupMember2() {
       // TODO: Group Member 2, place your code here
-      System.out.println("Hello my name is Phuc, but you can call me John");
    }
 
    public static void groupMember3() {
+      System.out.println("Group Member 3: Hello, I am Joanna");
       // TODO: Group Member 3 (if you have a group of 3), place your code here
    }
 
