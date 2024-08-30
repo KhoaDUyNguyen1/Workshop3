@@ -45,7 +45,7 @@ public class GitPractice {
       // TODO: All Group members uncomment and update this line of code
       System.out.println("CHANGE by Khoa and by Tri second time");
 
-      System.out.println("test");
+      System.out.println("testing");
    }
 
 }
