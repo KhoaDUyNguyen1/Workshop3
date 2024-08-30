@@ -26,7 +26,7 @@ public class GitPractice {
 
    public static void groupMember2() {
       System.out.println("Khoa is here");
-      System.out.println("Group Member 2: Hello, this is another Phuc");
+      System.out.println("Group Member 2: Hello, this is another Phuc123");
    }
 
    public static void groupMember3() {
