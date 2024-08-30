@@ -35,6 +35,8 @@ public class GitPractice {
    }
 
    public static void groupMember4() {
+      System.out.println("Group Member 3: Hello, I am Tuan");
+
       
       // TODO: Group Member 4 (if you have a group of 4), place your code here
    }
