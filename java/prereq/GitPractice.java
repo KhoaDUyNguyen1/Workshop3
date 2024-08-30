@@ -21,6 +21,7 @@ public class GitPractice {
       
       // TODO: Group Member 1, place your code here
       System.out.println("Group Member 1: Hello, I am Phuc, but you can call me John");
+      //this is a new comment for testing
    }
 
 
