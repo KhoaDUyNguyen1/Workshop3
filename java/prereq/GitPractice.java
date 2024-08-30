@@ -21,6 +21,7 @@ public class GitPractice {
       
       // TODO: Group Member 1, place your code here
       System.out.println("Group Member 1: Hello, I am Phuc, but you can call me John");
+      //this is a new comment for testing
    }
 
 
@@ -35,6 +36,8 @@ public class GitPractice {
    }
 
    public static void groupMember4() {
+      System.out.println("Group Member 3: Hello, I am Tuan");
+
       
       // TODO: Group Member 4 (if you have a group of 4), place your code here
    }
@@ -42,6 +45,11 @@ public class GitPractice {
    public static void mergeConflictArea() {
       // TODO: All Group members uncomment and update this line of code
       System.out.println("CHANGE by Khoa and by Tri second time");
+
+      System.out.println("testing");
+      System.out.println("testing");
+
+
    }
 
 }
