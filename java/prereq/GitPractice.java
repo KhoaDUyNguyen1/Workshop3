@@ -22,6 +22,7 @@ public class GitPractice {
 
    public static void groupMember2() {
       // TODO: Group Member 2, place your code here
+      System.out.println("Hello my name is Phuc, but you can call me John");
    }
 
    public static void groupMember3() {
